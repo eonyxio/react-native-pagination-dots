@@ -10,7 +10,7 @@
 import React from "react";
 import { View } from "react-native";
 
-export default PaginationDots = ({
+const PaginationDots = ({
     length = 5,
     activeIndex = 0,
     activeWidth = 30,
@@ -32,3 +32,5 @@ export default PaginationDots = ({
         />
     ))
 );
+
+export default PaginationDots;
