@@ -1,0 +1,26 @@
+{
+  "name": "react-native-pagination-dots",
+  "version": "0.0.1",
+  "description": "React native pagination dots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eonyxio/react-native-pagination-dots.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "pagination",
+    "dots",
+    "pagination-dots"
+  ],
+  "author": "Afaan Bilal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eonyxio/react-native-pagination-dots/issues"
+  },
+  "homepage": "https://github.com/eonyxio/react-native-pagination-dots#readme"
+}
