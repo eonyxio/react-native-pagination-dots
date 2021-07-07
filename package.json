@@ -1,6 +1,6 @@
 {
   "name": "react-native-pagination-dots",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "React native pagination dots.",
   "main": "index.js",
   "scripts": {
