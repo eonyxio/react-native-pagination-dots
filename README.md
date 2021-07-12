@@ -18,8 +18,10 @@ import React from 'react'
 import PaginationDots from 'react-native-pagination-dots'
 
 export default App() => {
+    const length = 5
+    const index = 2
     return (
-        <PaginationDots length={matchedCoaches.length} activeIndex={index} />
+        <PaginationDots length={length} activeIndex={index} />
     )
 }
 
